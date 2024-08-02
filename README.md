@@ -14,11 +14,11 @@ Welcome to my GitHub profile! I'm a passionate software developer specializing i
 - Advanced Microservices Design
 - Cloud Computing with AWS
 - GraphQL
-
-## 🚀 Projects
+  
+<!-- ## 🚀 Projects
 
 - **[Project 1](#):** Brief description of a key project.
-- **[Project 2](#):** Brief description of another key project.
+- **[Project 2](#):** Brief description of another key project. -->
 
 ## 📫 How to Reach Me
 
